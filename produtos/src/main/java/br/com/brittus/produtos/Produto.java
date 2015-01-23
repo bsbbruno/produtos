@@ -12,9 +12,6 @@ public class Produto {
 	}
 
 	public Double getValor() {
-		if (1!=2) {
-			System.out.println("OK");
-		}
 		return valor;
 	}
 
